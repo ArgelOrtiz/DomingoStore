@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DomingoStore</string>
+    <string name="title_login">Iniciar sesion</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_products">Productos</string>
+    <string name="menu_sellers">Vendedores</string>
+    <string name="menu_customer">Clientes</string>
+    <string name="menu_sale">Ventas</string>
+    <string name="menu_payment">Cuentas por cobrar</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_logout">Cerrar sesion</string>
+</resources>

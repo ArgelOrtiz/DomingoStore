@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_products"
+            android:icon="@drawable/ic_box"
+            android:title="@string/menu_products" />
+        <item
+            android:id="@+id/nav_seller"
+            android:icon="@drawable/ic_courier"
+            android:title="@string/menu_sellers" />
+        <item
+            android:id="@+id/nav_customer"
+            android:icon="@drawable/ic_manager"
+            android:title="@string/menu_customer" />
+        <item
+            android:id="@+id/nav_sale"
+            android:icon="@drawable/ic_cashbox"
+            android:title="@string/menu_sale" />
+        <item
+            android:id="@+id/nav_payment"
+            android:icon="@drawable/ic_wallet"
+            android:title="@string/menu_payment" />
+<!--        <item-->
+<!--            android:id="@+id/nav_profile"-->
+<!--            android:icon="@drawable/ic_account_circle"-->
+<!--            android:title="@string/menu_profile" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_logout"-->
+<!--            android:icon="@drawable/ic_exit"-->
+<!--            android:title="@string/menu_logout" />-->
+    </group>
+
+</menu>
